@@ -1,0 +1,3 @@
+[submodule "m0_fe_conditional"]
+	path = m0_fe_conditional
+	url = git@github.com:Jmaniri/m0_fe_conditionals.git
